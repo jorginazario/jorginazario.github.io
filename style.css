@@ -3,7 +3,6 @@ html {
   }
 h1 {
   font-family: Roboto;
-  background-color: red;
 }
 p {
   font-family: Roboto, sans-serif;
@@ -31,6 +30,6 @@ p {
   margin-left: 20px;
   padding: 10px;
   position: relative;
-  top: 80%;
+  top: 90%;
   width: 60%;
 }
